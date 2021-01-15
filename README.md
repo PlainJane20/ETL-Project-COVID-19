@@ -20,3 +20,5 @@ Workflow was as follows:
 * Using the transformed data to Python for further analysis (performing equations on the data in pandas, adding columns etc.)
 * Uploading my analysis directly from Python into our SQLite database
 * I also imported/exported transformed tables into pgAdmin4 to cover all elements possible
+
+### Navi Sohi | Data Analytics & Visualization
