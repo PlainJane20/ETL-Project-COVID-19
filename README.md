@@ -10,7 +10,7 @@ Three Tables were generated/loaded:
 
 1) USArlines: included the shortcode and corresponding airline name
 2) USAirports: included the IATA airport code, full name, address and lat long of airports
-3) Monthly Flight data: Includes flight delay information with delay time, airline shortcode and date details
+3) Monthly Flight data for Q12020: Includes flights delay, cancellation, cancellation reason etc
 
 Workflow was as follows:
 
