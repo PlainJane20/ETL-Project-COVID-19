@@ -21,4 +21,12 @@ Workflow was as follows:
 * Uploading my analysis directly from Python into our SQLite database
 * I also imported/exported transformed tables into pgAdmin4 to cover all elements possible
 
+### SQLAlchemy
+* Import the SQL database into Pandas using the following:
+   ```sql
+   from sqlalchemy import create_engine
+   engine = create_engine('postgresql://localhost:5432/<your_db_name>')
+   connection = engine.connect()
+   ```
+
 ### Navi Sohi | Data Analytics & Visualization
