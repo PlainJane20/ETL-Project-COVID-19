@@ -1,8 +1,11 @@
 # ETL-Project-COVID-19
 
+![COVID19travels.jpg](Data/COVID19travels.jpg)
+
 This project was meant as a basic ETL using SQL and Python
 
 Flight delay data from 2019-2020 was collected from Bueau of Transportation Statistics --> https://www.transtats.bts.gov/DatabaseInfo.asp?DB_ID=120&Link=0
+
 Three Tables were generated/loaded:
 
 1) USArlines: included the shortcode and corresponding airline name
