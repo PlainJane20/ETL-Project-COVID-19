@@ -29,4 +29,4 @@ Workflow was as follows:
    connection = engine.connect()
    ```
 
-### Navi Sohi | Data Analytics & Visualization
+### [Navi Sohi](https://github.com/PlainJane20) | Data Analytics & Visualization
